@@ -9,7 +9,7 @@ import java.util.Map;
 public class MapAssignmet {
 	
 
-	String str1="";
+	String str="";
 
 	
 	public void m() throws IOException
