@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class MapAssignmet {
 	
-	String str="";
+	String str="ak";
 	public void m() throws IOException
 	{
 		FileReader file=new FileReader("C:\\Users\\ANIL\\eclipse-workspace\\Selenium4\\TestData");
